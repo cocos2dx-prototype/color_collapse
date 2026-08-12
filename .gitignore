@@ -67,3 +67,16 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+#Cocos2d-x project file
+Project/cocos2d
+Podfile.lock
+Project/proj.ios_mac/Pods
+contents.xcworkspacedata
+UserInterfaceState.xcuserstate
+Project/proj.android/app/.cxx
+Project/proj.android/app/release
+project/proj.android
+project/proj.linux
+project/proj.win32
+*.psd
